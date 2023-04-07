@@ -16,8 +16,6 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 I’m currently working on www.travepals.me  
   
 
@@ -25,13 +23,7 @@
   
 
 - ⚡ Fun fact: I used to be a tractor driver  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
