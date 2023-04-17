@@ -16,7 +16,7 @@
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on www.travepals.me  
+- 🔭 I’m currently working on https://travelpals.herokuapp.com  
   
 
 - 🌱 I’m currently learning React  
