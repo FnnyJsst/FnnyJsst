@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning React  
   
 
-- ⚡ Fun fact: I used to be a tractor driver  
+- ⚡ Fun fact: I used to be a social worker  
   
 
 <br/>  
