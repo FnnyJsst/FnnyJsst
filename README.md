@@ -1,4 +1,4 @@
-## Hello, I'm Fanny a junior full-stack web developer based in France and Australia 🌈  
+## Hello, I'm Fanny a junior full-stack web developer based in France 🌈  
   
 
 <a href="https://instagram.com/https://www.instagram.com/fnnyjsst/?hl=fr" target="_blank">
