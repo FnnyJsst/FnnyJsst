@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm currently pursuing a Bachelor's degree in Application Design and Development, and working as a full-stack developer at Leancure  
+I'm a full-stack developer based in Normandy, France  
   
 
 <br/>  
