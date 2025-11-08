@@ -1,4 +1,4 @@
-## Hello, I'm Fanny a junior full-stack web developer based in France 🌈    
+## Hello, I'm Fanny full-stack web developer based in France 🌈    
   
 
 <a href="https://github.com/FnnyJsst" target="_blank">
@@ -15,8 +15,6 @@
 
 
 ### Glad to see you here!  
-I'm a full-stack developer based in Normandy, France  
-  
 
 <br/>  
 
